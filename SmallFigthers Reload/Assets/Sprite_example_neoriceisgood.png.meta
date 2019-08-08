@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: b06186291e5031540802df1febff34ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8379784485716549398
+    second: Sprite_example_neoriceisgood_0
+  - first:
+      213: -9117466275108607428
+    second: Sprite_example_neoriceisgood_1
+  - first:
+      213: 160895276121980740
+    second: Sprite_example_neoriceisgood_2
+  - first:
+      213: 4185384681903079359
+    second: Sprite_example_neoriceisgood_3
+  - first:
+      213: 1344100339325258006
+    second: Sprite_example_neoriceisgood_4
+  - first:
+      213: 3234327774165089588
+    second: Sprite_example_neoriceisgood_5
+  - first:
+      213: 4111846785898666357
+    second: Sprite_example_neoriceisgood_6
+  - first:
+      213: 2812959837075063084
+    second: Sprite_example_neoriceisgood_7
+  - first:
+      213: -7986613702940994705
+    second: Sprite_example_neoriceisgood_8
+  - first:
+      213: -8614540615012003004
+    second: Sprite_example_neoriceisgood_9
+  - first:
+      213: 646058720317334795
+    second: Sprite_example_neoriceisgood_10
+  - first:
+      213: -6731569578635084217
+    second: Sprite_example_neoriceisgood_11
+  - first:
+      213: -2900411902087738207
+    second: Sprite_example_neoriceisgood_12
+  - first:
+      213: 2392815540686246134
+    second: Sprite_example_neoriceisgood_13
+  - first:
+      213: 2562684854417025679
+    second: Sprite_example_neoriceisgood_14
+  - first:
+      213: -1773627015623928820
+    second: Sprite_example_neoriceisgood_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 94
+        width: 58
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1abed4a457a2b14a9e99a54c621fe84
+      internalID: 8379784485716549398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 135
+        width: 66
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a707fc846107f5d428ca167e7f19e652
+      internalID: -9117466275108607428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 114
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbd52172ed79614090b090245c0c509
+      internalID: 160895276121980740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 49
+        width: 51
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bbb6911af9b1a478089b2c8d761a80
+      internalID: 4185384681903079359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 14
+        width: 38
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bb909e1572c7e42a84be9fd90b6b57
+      internalID: 1344100339325258006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 7
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12f96346dd6ba54eb1878c9f5974ee7
+      internalID: 3234327774165089588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 12
+        width: 37
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c7ec27fc5f30b4fbe8b36530285f35
+      internalID: 4111846785898666357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 13
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fab8b35fbf544441af4237faf77fc2c
+      internalID: 2812959837075063084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_8
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 58
+        width: 52
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e390aaa9a0bc2924c901fe003f4f7f57
+      internalID: -7986613702940994705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 128
+        width: 45
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9797e8fb6654b5c448b05f95c7236b23
+      internalID: -8614540615012003004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 114
+        width: 68
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbc02a0c7cd4f1439851ceaaf6f629f
+      internalID: 646058720317334795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 53
+        width: 53
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e25618f57227594ca7463dc6273ab62
+      internalID: -6731569578635084217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 85
+        width: 54
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a72e01076caeb4592a6112188a25fd
+      internalID: -2900411902087738207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 48
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e032341f30466448676af8a22cf0f8
+      internalID: 2392815540686246134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 12
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357137d2023f0fc4b84076fab2b76a83
+      internalID: 2562684854417025679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_example_neoriceisgood_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 13
+        width: 34
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2598d6f1c0256b54daaf53ba0f5d2c95
+      internalID: -1773627015623928820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
